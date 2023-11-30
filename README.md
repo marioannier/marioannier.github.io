@@ -2,10 +2,6 @@
 
 Welcome to the GitHub repository for my personal website portfolio. This repository contains the source code and files for my personal website, where I showcase my skills, projects, and more.
 
-# Your Name's Personal Website
-
-Welcome to the repository for my personal website! This site serves as a showcase of my projects, skills, and interests.
-
 ## Table of Contents
 
 - [About Me](#about-me)
