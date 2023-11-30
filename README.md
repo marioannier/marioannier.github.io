@@ -1,6 +1,6 @@
 # Your Personal Website Portfolio
 
-![Your Name]()
+![Your Name](images/favicon32x32.png)
 
 Welcome to the GitHub repository for my personal website portfolio. This repository contains the source code and files for my personal website, where I showcase my skills, projects, and more.
 
