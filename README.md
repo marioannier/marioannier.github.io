@@ -3,7 +3,7 @@
 Welcome to the GitHub repository for my personal website portfolio. This repository contains the source code and files for my personal website, where I showcase my skills, projects, and more.
 
 <div align="center">
-  <img src="https://api.apify.com/v2/key-value-stores/7JHDWcCyZ1u6qOSCR/records/marioannier.is-a.dev-scroll_lossy-comp" alt="Web GIF" width="70%">
+  <img src="https://api.apify.com/v2/key-value-stores/7JHDWcCyZ1u6qOSCR/records/marioannier.is-a.dev-scroll_lossy-comp" alt="Web GIF" width="60%">
 </div>
 
 ## Table of Contents
