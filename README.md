@@ -10,37 +10,27 @@ Welcome to the GitHub repository for my personal website portfolio. This reposit
 
 - [About Me](#about-me)
 - [Projects](#projects)
-- [Skills](#skills)
 - [Contact](#contact)
 
 ## About Me
 
-I am [Your Name], a passionate [Your Profession] based in [Your Location]. I specialize in [Your Skills/Technologies], and I am dedicated to creating [Your Interests/Hobbies].
+Telecommunications Engineer with experience in object-oriented programming. I am eager to bring my technical expertise, passion for innovation, and positive mindset to a new challenge.If you are looking for a versatile and highly skilled professional with a strong track record of success
 
 ## Projects
 
-### Project 1: Project Name
-- Brief description of the project.
-- Technologies used.
-- Link to the project repository or deployed version.
+### Project 1: Automation of the Picket Fence
+- We proposed and experimentally demonstrated a novel method for detecting and quantifying the displacements of the leaves in the Picket Fence Test using free software Fiji/ImageJ. 
 
-### Project 2: Project Name
-- Brief description of the project.
-- Technologies used.
-- Link to the project repository or deployed version.
-
-## Skills
-
-- List of your key skills or technologies you specialize in.
-- You can use bullet points for better readability.
+### Project 2: Optimization of fiber optic design
+- Optimization algorithms leveraging the power of AI and machine learning to facilitate the design of specialty fibers.
 
 ## Contact
 
 Feel free to reach out to me! Let's connect and collaborate.
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+- Email: [mario.annier@gmail.com]
+- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/mario-annier-gonzalez/)]
+- Twitter: [[Twitter](https://twitter.com/marioannier)]
 
 ---
 
