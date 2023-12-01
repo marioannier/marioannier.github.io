@@ -29,8 +29,8 @@ Telecommunications Engineer with experience in object-oriented programming. I am
 Feel free to reach out to me! Let's connect and collaborate.
 
 - Email: [mario.annier@gmail.com]
-- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/mario-annier-gonzalez/)]
-- Twitter: [[Twitter](https://twitter.com/marioannier)]
+- LinkedIn: [[Here](https://www.linkedin.com/in/mario-annier-gonzalez/)]
+- Twitter: [[Here](https://twitter.com/marioannier)]
 
 ---
 
